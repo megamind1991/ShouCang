@@ -38,3 +38,6 @@ http://www.spring4all.com
 飞猪流量
 
 https://zhuanlan.zhihu.com/p/33357783
+
+微服务选型
+http://www.cnblogs.com/xishuai/p/dubbo-and-spring-cloud.html
